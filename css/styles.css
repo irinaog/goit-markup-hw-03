@@ -259,6 +259,7 @@ img {
     0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 0px 0px 4px 4px;
   padding-bottom: 30px;
+  background: #fff;
 }
 
 .member-name {
@@ -324,6 +325,8 @@ img {
 }
 
 .btn-portfolio {
+  padding: 6px 22px;
+
   color: var(--title-text-color);
   background-color: #f5f4fa;
   border: none;
